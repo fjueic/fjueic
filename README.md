@@ -1,7 +1,7 @@
 
 # Hello, I'm Rohit 👋
 
-I'm a student pursuing a Bachelor's degree in Computer Science from Galgotias University, currently in my second year. I'm interested in exploring various aspects of computer science and technology.
+I'm a student pursuing a Bachelor's degree in Computer Science from Galgotias University, currently in my third year. I'm interested in exploring various aspects of computer science and technology.
 
 ## 🔭 I'm currently working on 
 
